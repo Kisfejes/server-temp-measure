@@ -1,0 +1,23 @@
+{
+  "name": "server-temp-measure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kisfejes/server-temp-measure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kisfejes/server-temp-measure/issues"
+  },
+  "homepage": "https://github.com/Kisfejes/server-temp-measure#readme",
+  "dependencies": {
+    "bme280": "^2.1.1"
+  }
+}
